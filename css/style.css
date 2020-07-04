@@ -1,0 +1,22 @@
+.btn-primary{
+    background-color:hsl(231, 69%, 60%);
+    border:hsl(231, 69%, 60%);
+    border:1px solid hsl(231, 69%, 60%);
+}
+
+.btn.btn-primary:hover{
+    background-color:transparent;
+    color:hsl(231, 69%, 60%)
+}
+
+.features-control{
+    cursor:pointer;
+}
+
+.features-control.active{
+    border-bottom:3px solid red;
+}
+
+footer{
+    background-color:hsl(231, 69%, 60%);
+}
